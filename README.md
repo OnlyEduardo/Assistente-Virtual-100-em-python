@@ -3,4 +3,4 @@ Criando Assistente Virtual 100% em python
 
 Tutorial: <https://www.youtube.com/channel/UCOA0OX5vpsQI4YVLOxVqIXA/playlists?view_as=subscriber>
 ****
-Arquivos necessário na pasta "000 - arquivos necessários"
+Arquivos necessários para seguir o tutorial na pasta "000 - arquivos necessários"
