@@ -5,9 +5,7 @@ Tutorial: https://www.youtube.com/watch?v=yctjVrX1w3g&list=PLfEVIirDdaPsJr2mJeyq
 
 Discord: https://discord.gg/p5bYhAP
 
-Twitter: https://twitter.com/Eduardo71019346
-
-GitHub: https://github.com/OnlyEduardo/
+Twitter: https://twitter.com/OnlyAProgrammer
 
 Arquivos necessários para seguir o tutorial na pasta "000 - arquivos necessários"
 
